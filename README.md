@@ -2,7 +2,7 @@
 
 ## *Brian Riendeau*
 
-**DEMO* Liveshow case of an email subscription marketing website using bootstrap css.
+**DEMO* Live show case of an email subscription marketing website using bootstrap css.
 
 Time spent: **--** hours spent in total
 
