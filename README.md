@@ -1,24 +1,24 @@
-# Tip Calculator 
+# Website Demo
 
-## *Your name here*
+## *Brian Riendeau*
 
-**Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+**DEMO* Liveshow case of an email subscription marketing website using bootstrap css.
 
-Time spent: **X** hours spent in total
+Time spent: **--** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User can enter in a bill amount (total amount to tip on)
-* [ ] User can enter a tip percentage (what % the user wants to tip).
-* [ ] The tip and total amount are updated immediately when any of the inputs changes.
-* [ ] The user sees a label or color update based on the tip amount. 
+* [ ] Interactive and Responsive Buttons
+* [ ] Mobile Friendly
+* [ ] 
+* [ ] 
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [ ] 
+* [ ] 
 
 ## Video Walkthrough
 
@@ -34,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Brian Riendeau]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
